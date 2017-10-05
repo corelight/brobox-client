@@ -1,2 +1,2 @@
 # brobox-client
-Note: This repository has been renamed to corelight-client.
+Note: This repository has moved to https://github.com/corelight/corelight-client.
